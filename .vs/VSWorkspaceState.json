@@ -1,8 +1,12 @@
 {
   "ExpandedNodes": [
     "",
+    "\\assets",
+    "\\assets\\jpeg",
+    "\\assets\\png",
     "\\css",
     "\\sass"
   ],
+  "SelectedNode": "\\assets\\png\\SpeedSimThumb.png",
   "PreviewInSolutionExplorer": false
 }
